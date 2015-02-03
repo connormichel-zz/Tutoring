@@ -1,0 +1,32 @@
+User-agent: *
+Disallow: /mcc/images/
+
+Disallow: /stats/
+Disallow: /tmp/
+Disallow: /integrity/aidb
+Disallow: /education/PortfolioSample
+Disallow: /education/narrative
+Disallow: /education/Blank_Spring11_CPPAs
+
+Disallow: /homepage_testing/
+
+Disallow: /entrepreneurship_OLD/
+Disallow: /orientation_August2011/
+Disallow: /orientation_January2012/
+Disallow: /orientation_winter2012/
+Disallow: /newsevents_old/
+
+Disallow: /bwtech_2011/
+Disallow: /_dps_winter/
+Disallow: /_facultydiversity/
+Disallow: /_ideas/
+Disallow: /window/schaller.html
+Disallow: /undergraduate/
+# Disallow: /aboutumbc/
+
+# Annoying robots
+User-agent: Yandex
+Disallow: /
+
+User-agent: IvincoIWS
+Disallow: /

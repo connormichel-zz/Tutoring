@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Comparables"/>
+	<classpathentry kind="src" path="Other Projects"/>
+	<classpathentry kind="src" path="Trees"/>
+	<classpathentry kind="src" path="Sorting"/>
+	<classpathentry kind="src" path="Exceptions"/>
+	<classpathentry kind="src" path="Recursion"/>
+	<classpathentry kind="src" path="Lists"/>
+	<classpathentry kind="src" path="Loops"/>
+	<classpathentry kind="src" path="Arrays"/>
+	<classpathentry kind="src" path="IO"/>
+	<classpathentry kind="src" path="Maps"/>
+	<classpathentry kind="src" path="Objects"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
